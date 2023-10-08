@@ -5,15 +5,15 @@ Explore the intricacies of inferential statistics to appreciate its importance i
 
 ## **Chi-Square Test:**
 Hypothesis:
-The use of Fentanyl is associated with male gender in the dataset.
+The use of Fentanyl is associated with male gender for the first combined overdose in the dataset.
 
 Null Hypothesis (H0):
-There is no significant association between the use of Fentanyl and male gender in the dataset.
+There is no significant association between the use of Fentanyl and male gender for the first combined overdose in the dataset.
 
 Alternative Hypothesis (H1):
-There is a significant association between the use of Fentanyl and male gender in the dataset.
+There is a significant association between the use of Fentanyl and male gender for the first combined overdose in the dataset.
 
-We will perform statistical analysis to test this hypothesis and determine if there's a significant relationship between the use of Fentanyl and the gender of male individuals in the dataset.
+We will perform statistical analysis to test this hypothesis and determine if there's a significant relationship between the use of Fentanyl and the gender of male individuals for the first combined overdose in the dataset.
 
 ## **T-Test:**
 
