@@ -7,6 +7,8 @@ df = pd.read_csv('https://raw.githubusercontent.com/Alyssasorensen/datasci_5_sta
 # Filter out rows where 'Bene_Geo_Desc' is not null
 filtered_df = df.dropna(subset=['Bene_Geo_Desc'])
 
+df.reset_index(drop=True, inplace=True)
+
 # Perform ANOVA
 f_statistic, p_value = stats.f_oneway(
     filtered_df[filtered_df['Bene_Geo_Desc'] == 'Alabama']['Total_Bene_Telehealth'],
