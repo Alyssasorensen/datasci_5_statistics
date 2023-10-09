@@ -33,13 +33,13 @@ Since the p-value is less than the alpha amount, we reject the null hypothesis, 
 
 ## **ANOVA:**
 **Hypothesis:**
-The "Total_Bene_Telehealth" (total number of beneficiaries using telehealth) varies significantly across different "Bene_Geo_Desc" (geographic locations). 
+The count varies significantly across different bed types within the hospital. 
 
 **Null Hypothesis (H0):**
-The average total beneficiaries using telehealth is the same across all geographic locations.
+The average count of patients is the same across all bed types (no significant difference in patient counts among bed types).
 
 **Alternative Hypothesis (H1):**
-The average total beneficiaries using telehealth differs across at least one pair of geographic locations.
+The average count of patients is different across at least two bed types (there is a significant difference in patient counts among bed types).
 
 
 ## **Regression Analysis:**
