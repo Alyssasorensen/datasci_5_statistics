@@ -5,7 +5,7 @@ Explore the intricacies of inferential statistics to appreciate its importance i
 
 ## **Chi-Square Test:**
 Hypothesis:
-The use of Acetaminophen is associated with male gender for the first combined overdose in the dataset.
+The use of Acetaminophen is associated more with the male gender for the first combined overdose in the dataset.
 
 Null Hypothesis (H0):
 There is no significant association between the use of Acetaminophen and male gender for the first combined overdose in the dataset.
@@ -14,6 +14,8 @@ Alternative Hypothesis (H1):
 There is a significant association between the use of Acetaminophen and male gender for the first combined overdose in the dataset.
 
 We will perform statistical analysis to test this hypothesis and determine if there's a significant relationship between the use of Acetaminophen and the gender of male individuals for the first combined overdose in the dataset.
+
+Based on the chi-square test, in the first combined overdose, their were 13 females and 20 males associated with Acetaminophen. Therefore, my hypothesis was correct and Acetaminophen is associated more with the male gender for the first combined overdose in the dataset.  
 
 ## **T-Test:**
 
