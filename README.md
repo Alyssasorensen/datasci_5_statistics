@@ -41,6 +41,7 @@ The average count of patients is the same across all bed types (no significant d
 **Alternative Hypothesis (H1):**
 The average count of patients is different across at least two bed types (there is a significant difference in patient counts among bed types).
 
+Based on the findings, the null hypothesis was rejected, meaning there is a significant difference in patient counts among bed types.  
 
 ## **Regression Analysis:**
 
