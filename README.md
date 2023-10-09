@@ -29,6 +29,8 @@ There is a significant difference in the average total deaths between the age gr
 
 This analysis will help determine if there is a statistically significant difference in the average total deaths between the two age groups.
 
+Since the p-value is less than the alpha amount, we reject the null hypothesis, so there is a significant difference in total deaths between the two age groups. 
+
 ## **ANOVA:**
 
 ## **Regression Analysis:**
