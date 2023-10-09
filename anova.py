@@ -1,7 +1,7 @@
 import pandas as pd
 import scipy.stats as stats
 
-# Upload the CSV file to Google Colab and replace 'your_dataset.csv' with the actual filename
+# Upload the CSV file 
 df = pd.read_csv('your_dataset.csv')
 
 # Filter out rows where 'Bene_Geo_Desc' is not null
