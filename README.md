@@ -32,6 +32,15 @@ This analysis will help determine if there is a statistically significant differ
 Since the p-value is less than the alpha amount, we reject the null hypothesis, so there is a significant difference in total deaths between the two age groups. 
 
 ## **ANOVA:**
+**Hypothesis:**
+The "Total_Bene_Telehealth" (total number of beneficiaries using telehealth) varies significantly across different "Bene_Geo_Desc" (geographic locations). 
+
+**Null Hypothesis (H0):**
+The average total beneficiaries using telehealth is the same across all geographic locations.
+
+**Alternative Hypothesis (H1):**
+The average total beneficiaries using telehealth differs across at least one pair of geographic locations.
+
 
 ## **Regression Analysis:**
 
