@@ -2,7 +2,7 @@ import pandas as pd
 import scipy.stats as stats
 
 # Upload the CSV file 
-df = pd.read_csv('your_dataset.csv')
+df = pd.read_csv('https://raw.githubusercontent.com/Alyssasorensen/datasci_5_statistics/main/datasets/TMEDTREND_PUBLIC_230821.csv')
 
 # Filter out rows where 'Bene_Geo_Desc' is not null
 filtered_df = df.dropna(subset=['Bene_Geo_Desc'])
