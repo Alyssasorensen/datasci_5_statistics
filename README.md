@@ -55,4 +55,4 @@ There is a significant relationship between the number of stroke mortalities (de
 
 In this hypothesis, we want to test whether the latitude of a geographic location predicts the number of stroke mortalities. We will perform a regression analysis to evaluate the relationship between these variables and determine if it is statistically significant. This analysis will provide insights into whether latitude can be a predictor of stroke mortality rates.
 
-From the scatter plot, we can see that a majority of the data points have a value between 60 and 80 and each have varying latitudes. 
+From the scatter plot, we can see that a majority of the data points have a value between 60 and 80 and each have varying latitudes. There is no relationship between the latitude and the geographic location. Therefore, the null hypothesis is correct in stating that their is no significant relationship between the number of stroke mortalities and the geographic location's latitude. 
