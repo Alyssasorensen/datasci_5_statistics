@@ -44,6 +44,11 @@ The average count of patients is different across at least two bed types (there 
 Based on the findings, the null hypothesis was rejected, meaning there is a significant difference in patient counts among bed types.  
 
 ## **Regression Analysis:**
+**Hypothesis:**
+The latitude of a geographic location predicts the number of stroke mortalities
+**Null Hypothesis (H0):**
+There is no significant relationship between the number of stroke mortalities (dependent variable) and the geographic location's latitude (independent variable).
+**Alternative Hypothesis (H1):**
+There is a significant relationship between the number of stroke mortalities (dependent variable) and the geographic location's latitude (independent variable).
 
-
-
+In this hypothesis, we want to test whether the latitude of a geographic location predicts the number of stroke mortalities. We will perform a regression analysis to evaluate the relationship between these variables and determine if it is statistically significant. This analysis will provide insights into whether latitude can be a predictor of stroke mortality rates.
