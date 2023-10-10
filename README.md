@@ -46,8 +46,10 @@ Based on the findings, the null hypothesis was rejected, meaning there is a sign
 ## **Regression Analysis:**
 **Hypothesis:**
 The latitude of a geographic location predicts the number of stroke mortalities
+
 **Null Hypothesis (H0):**
 There is no significant relationship between the number of stroke mortalities (dependent variable) and the geographic location's latitude (independent variable).
+
 **Alternative Hypothesis (H1):**
 There is a significant relationship between the number of stroke mortalities (dependent variable) and the geographic location's latitude (independent variable).
 
