@@ -15,7 +15,7 @@ There is a significant association between the use of Acetaminophen and male gen
 
 We will perform statistical analysis to test this hypothesis and determine if there's a significant relationship between the use of Acetaminophen and the gender of male individuals for the first combined overdose in the dataset.
 
-Based on the chi-square test, in the first combined overdose, their were 13 females and 20 males associated with Acetaminophen. Therefore, my hypothesis was correct and Acetaminophen is associated more with the male gender for the first combined overdose in the dataset. This means that we accept the alternative hypothesis.   
+Based on the chi-square test, in the first combined overdose, their were 13 females and 20 males associated with using Acetaminophen. Therefore, my hypothesis was correct and Acetaminophen is associated more with the male gender for the first combined overdose in the dataset. This means that we accept the alternative hypothesis and reject the null hypothesis.    
 
 ## T-Test:
 **Hypothesis:**
@@ -29,7 +29,7 @@ There is a significant difference in the average total deaths between the age gr
 
 This analysis will help determine if there is a statistically significant difference in the average total deaths between the two age groups.
 
-Since the p-value is less than the alpha amount, we reject the null hypothesis, so there is a significant difference in total deaths between the two age groups. 
+Since the p-value is less than the alpha amount, we reject the null hypothesis, so there is a significant difference in total deaths between the two age groups. Therefore, we accept the alternative hypothesis.  
 
 ## **ANOVA:**
 **Hypothesis:**
@@ -41,7 +41,7 @@ The average count of patients is the same across all bed types (no significant d
 **Alternative Hypothesis (H1):**
 The average count of patients is different across at least two bed types (there is a significant difference in patient counts among bed types).
 
-Based on the findings, the null hypothesis was rejected, meaning there is a significant difference in patient counts among bed types.  
+Based on the findings, the null hypothesis was rejected, meaning there is a significant difference in patient counts among bed types. Therefore, we accept the alternative hypothesis.   
 
 ## **Regression Analysis:**
 **Hypothesis:**
@@ -55,4 +55,4 @@ There is a significant relationship between the number of stroke mortalities (de
 
 In this hypothesis, we want to test whether the latitude of a geographic location predicts the number of stroke mortalities. We will perform a regression analysis to evaluate the relationship between these variables and determine if it is statistically significant. This analysis will provide insights into whether latitude can be a predictor of stroke mortality rates.
 
-From the scatter plot, we can see that a majority of the data points have a value between 60 and 80 and each have varying latitudes. There is no relationship between the latitude and the geographic location. Therefore, the null hypothesis is correct in stating that their is no significant relationship between the number of stroke mortalities and the geographic location's latitude and the null hypothesis is accepted.
+From the scatter plot, we can see that a majority of the data points have a value between 60 and 80 and each have varying latitudes. There is no relationship between the latitude and the geographic location. Therefore, the null hypothesis is correct in stating that their is no significant relationship between the number of stroke mortalities and the geographic location's latitude; the null hypothesis is accepted and the alternative hypothesis is rejected. 
